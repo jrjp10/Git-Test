@@ -1,6 +1,4 @@
-# Netflix-Clone
-Using HTML &amp; CSS.
+# Git-Test
 <br>
- This is my first ever repository during  'Web Development' Learning Path
- <br>
-By JithinRaj
+ This is my first ever repository during  the 'Web Development' Learning Path to understand Git and GitHub
+
